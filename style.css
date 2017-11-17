@@ -45,14 +45,16 @@ body {
     text-align: center;
     font-family: pt-sans-narrow, sans-serif;
     font-weight: 700;
-    color: orange;
+    color: white;
     height: 60px;
+	background: orange;
+	border: none;
 }
 .bon {
 	    padding-top: 54px;
 	    margin: 0;
     padding: 0;
-	background: burlywood;
+	background:saddlebrown;
 	height: 340px;
 	width: 300px;
 	margin-left: auto;
@@ -61,8 +63,10 @@ body {
 	text-align: center;
 	font-size: 25px;
 	padding-top: 10px;
-	color: white;;
-	
+	color: white;
+	box-sizing: border-box;
+	padding-bottom: 10px;
+	padding: 0px;
 }
 .in{
 	margin-top: 50px;
@@ -93,8 +97,25 @@ body {
     font-weight: bold;
 }
 .kek {
-
+	font-size: 24px;
+    line-height: 65px;
+    font-family: lobster, serif;
+	color: aliceblue;
+	text-align: center;
+	margin: 0px;
 }
 .bon img {
 	margin-top: -170px;
+}
+.photo {
+	background-image: url('u6gg0xz5ncioowcp8foutlf5emae5qi0.jpg');
+	margin: 0px;
+	padding: 0px;
+}
+.block {
+	margin-left: 60px;
+	
+}
+.main {
+	display: flex;
 }
