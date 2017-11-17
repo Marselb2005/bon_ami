@@ -1,0 +1,100 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+.header {
+    height: 77px;
+    background-color: #443019;
+    background-color: rgba(48, 26, 0, 0.9);
+    top: 0px;
+    -pie-background: rgba(48, 26, 0, 0.9);
+    display: flex;
+    padding-left: 100px;
+}
+.menu {
+       line-height: 28px;
+    font-size: 23px;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: pt-sans-narrow, sans-serif;
+    padding-left: 50px;
+}
+.menu:hover{
+       line-height: 28px;
+    font-size: 23px;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: pt-sans-narrow, sans-serif;
+    padding-left: 50px;
+    text-decoration:underline;
+}
+.text {
+    line-height: 65px;
+    font-family: lobster, serif;
+    font-size: 25px;
+	color: black;
+	margin: 0;
+    padding: 0;
+    
+}
+.button {
+    width: 175px;
+    line-height: 24px;
+    font-size: 20px;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: pt-sans-narrow, sans-serif;
+    font-weight: 700;
+    color: orange;
+    height: 60px;
+}
+.bon {
+	    padding-top: 54px;
+	    margin: 0;
+    padding: 0;
+	background: burlywood;
+	height: 340px;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 200px;
+	text-align: center;
+	font-size: 25px;
+	padding-top: 10px;
+	color: white;;
+	
+}
+.in{
+	margin-top: 50px;
+	margin: 0 auto;
+    display: block;
+    width: 90%;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    background-color: #f4f4f4;
+    color: #000;
+    border: 1px solid #cccdce;
+    padding: 10px;
+    margin-bottom: 25px;
+}
+.im {
+	cursor: pointer;
+    width: 85%;
+    border: none;
+    background-color: #F58327;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    padding: 0,5em;
+    font-size: 125%;
+    color: #ffffff;
+    margin: 0 auto;
+    font-weight: bold;
+}
+.kek {
+
+}
+.bon img {
+	margin-top: -170px;
+}
